@@ -7,6 +7,13 @@ Controls:
 Space - Clear all
 */
 
+/*
+Note: 
+-when starting the program, delete and re add the value
+EX:
+if(key.toString() === '1'<- this value
+*/
+
 var draw = function() {
     
     if(key.toString() === '1'){
